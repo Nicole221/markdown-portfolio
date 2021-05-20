@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](http://github.com)
+[Instagram](https://www.instagram.com/d3wnix/saved/?hl=es)
+[Personal blog](https://nicolekrusenoda.wixsite.com/yugen)
